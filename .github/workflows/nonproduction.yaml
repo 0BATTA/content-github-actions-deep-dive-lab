@@ -1,4 +1,4 @@
-name: Deploy feature branches to nonproduction bucket
+name: Deploy feature branches to nonproduction bucket, fixed typos + aws permissions
 
 on:
   push:
